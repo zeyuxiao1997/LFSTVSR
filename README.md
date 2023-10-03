@@ -5,7 +5,7 @@ Zeyu Xiao, Zhen Cheng, and Zhiwei Xiong. [Space-Time Super-Resolution for Light 
 
 ## Train the model
 ```
-python train_STLFVSR4_condition1
+python train_STLFVSR4_condition1.py
 ```
 
 ## Test the model
